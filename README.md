@@ -1,3 +1,4 @@
+This is a webpage (NOT RUNNING) for an educational course of my [MSc Web Intelligence](https://msc.iee.ihu.gr/en/) of the International Hellenic Univercity
 <img width="454" alt="image" src="https://user-images.githubusercontent.com/79016672/148306200-8a08c4aa-5c88-4a0b-acea-b4d7c5e14d2a.png">
 This project is an internet movie database responsive application, which contains a small movie database example dataset, that allows users to find basic information about movies such as casting, ratings, directors etc. Users can reach all kind of movies, by default, or a specific genre such as action, adventure, animation, comedy, crime, documentary, drama, family, fantasy, foreign, history, horror, music, mystery, romance, science fiction, thriller, tv-movies, war and western. A registered user can also rate a movie, or leave a review/comment, or both. DuckFlix provides the ability to find interesting movies easier and quicker than other popular websites.
 
